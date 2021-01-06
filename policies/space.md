@@ -1,1 +1,1 @@
-![schedule](https://github.com/rac-coon-ncku/200824_workshop/blob/master/schedule.png)
+![layout](https://github.com/rac-coon-ncku/rac_coon_public/raw/master/img/Floor_plan_Arch_Tech_Bldg_GF_Cropped.png)
