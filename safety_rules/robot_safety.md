@@ -3,10 +3,10 @@
 
 1. 不得在非上班時段獨自操作工業機器人。
 2. 遇緊急情況需停止機器時，採用以下動作之一：
-   1. 釋放或重壓Enabling switch
-   2. 釋放Start/Start backward key
-   3. 按下STOP key
-   4. 按下Emergency Stop
+    1. 釋放或重壓Enabling switch
+    2. 釋放Start/Start backward key
+    3. 按下STOP key
+    4. 按下Emergency Stop
 3. 機器運作時，操作者需可以清楚監視機器人工作範圍
 4. 每次執行程式或手動操作之前，確認以下設定無誤:
     1. 使用T1或T2模式
